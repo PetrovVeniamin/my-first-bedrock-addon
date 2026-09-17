@@ -1,0 +1,9 @@
+{
+    "header": {
+        "name": "Mining drill",
+        "description": "Mining drill for resource extraction and tunnel boring",
+        "uuid": "b2369fc0-97ab-4f1a-9835-ec5cb527b0e7",
+        "version": [1,0,0],
+        "min_engine_version": [1, 20, 0]
+    }
+}
