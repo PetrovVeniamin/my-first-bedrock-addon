@@ -26,5 +26,13 @@
         "entry": "scripts/main.js"
     }
 
-]
+],
+
+"dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.13.0"
+    }
+  ]
+
 }
